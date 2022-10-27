@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 10.99,
+      "imgUrl": "/images/apples.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Strawberries",
+      "price": 11.99,
+      "imgUrl": "/images/strawberries.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Blueberries",
+      "price": 17.75,
+      "imgUrl": "/images/blueberries.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Avokado",
+      "price": 11.90,
+      "imgUrl": "/images/avokado.jpg"
+    }
+  ]
